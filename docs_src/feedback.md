@@ -10,5 +10,5 @@ layout: page
 - Request a feature : [Github features template](https://github.com/nag763/doteur/issues/new?assignees=&labels=&template=feature_request.md&title=Feature Request)
 
 - Support the project : 
-	-  Improve it [on GitHub](https://github.com/nag763/doteur)
+	- Improve it [on GitHub](https://github.com/nag763/doteur)
 	- Star it, to show your love [On GitHub (top right of repository page)](https://github.com/nag763/doteur)
