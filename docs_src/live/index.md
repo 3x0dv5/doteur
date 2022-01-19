@@ -8,4 +8,3 @@ title: (Beta) Live test
 This functionnality is still in development
 
 <iframe src="iframe.html" width="100%" height="400px" />
-
