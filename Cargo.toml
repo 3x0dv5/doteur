@@ -1,6 +1,0 @@
-[workspace]
-members = [
-    "doteur_core",
-    "doteur_cli",
-    "doteur_wasm"
-]
