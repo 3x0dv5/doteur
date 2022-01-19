@@ -223,7 +223,7 @@
   },"37": {
     "doc": "(Beta) Live test",
     "title": "Live testing",
-    "content": "This functionnality is still in development . ",
+    "content": "This functionnality is still in development. Click here to print the output of the window (will render better for large SQL files) . ",
     "url": "https://nag763.github.io/doteur/live/#live-testing",
     "relUrl": "/live/#live-testing"
   },"38": {
