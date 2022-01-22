@@ -7,7 +7,13 @@ You will find below the different details about the different versions of this t
 
 ---
 
-## Version 0.5.0 (latest) :
+## Version 0.5.1 (latest) :
+
+- Minor fixes
+
+---
+
+## Version 0.5.0 :
 
 - A brand new website
 - A better packaging 
