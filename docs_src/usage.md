@@ -15,8 +15,7 @@ As a reminder, `doteur` is a CLI tool meaning that you need to run it through a 
 ## Print help
 
 ```
-doteur --help
-doteur 0.5.0
+doteur 0.5.1
 LABEYE Loïc <loic.labeye@pm.me>
 Parse a SQL configuration and convert it into a .dot file, render the output if Graphviz is
 installed
@@ -32,18 +31,15 @@ OPTIONS:
         --dark_mode            Wheter to render in dark mode or not
     -h, --help                 Print help information
     -i, --include <INCLUDE>    Filter to include only the given tables, accept simple regexs
-        --it                   Starts an interactive dialog to connect to a remote database
         --legend               Includes hint about the relations type at the bottom of the output
                                file
     -o, --output <OUTPUT>      Name of the output file [default: output.dot]
-        --sqlite               Starts an interactive dialog to connect to a remote database
-        --url                  Specificate that the input is an URL (i.e.
-                               mysql://usr:password@localhost:3306/database)
     -V, --version              Print version information
     -x, --exclude <EXCLUDE>    Filter to exclude the given tables, accept simple regexs
 
 Some functionnalities might not appear as they depend on which version this tool has been downloaded
 or built for.
+
 ```
 ---
 
